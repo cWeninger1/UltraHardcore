@@ -77,7 +77,7 @@ C.Register({
   id = "ironman",
   name = "Ironman",
   description = "No grouping, no dungeons, and no potions. Reach 60 without breaking the rules.",
-  icon = "Interface\\Icons\\inv_misc_trophy_01",
+  icon = "Interface\\Icons\\ability_warrior_challange",
   events = {
     "GROUP_ROSTER_UPDATE",
     "PLAYER_ENTERING_WORLD",
